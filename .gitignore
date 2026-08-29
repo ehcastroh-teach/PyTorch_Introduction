@@ -1,0 +1,10 @@
+venv/
+assets/venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+logs/
+*.egg-info/
+.DS_Store
+.attribution-pass
